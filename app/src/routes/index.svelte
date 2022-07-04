@@ -1,6 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<section class="hero">
+	<div class="hero--container">
+		<h1 class="">Welcome to SvelteKit</h1>
+		<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+	</div>
+</section>
 
 <script>
-	import '$lib/style.sass'
+	import '$lib/style.sass';
 </script>
