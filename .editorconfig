@@ -7,3 +7,23 @@ end_of_line = lf
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = false
+
+[*.js]
+tab_width = 4
+indent_size = 4
+indent_style = tab
+
+[*.svelte]
+tab_width = 4
+indent_size = 4
+indent_style = tab
+
+[*.html]
+tab_width = 4
+indent_size = 4
+indent_style = tab
+
+[*.sass]
+tab_width = 4
+indent_size = 4
+indent_style = tab
